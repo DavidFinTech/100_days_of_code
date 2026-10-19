@@ -15,9 +15,6 @@ files:
   - name: hangman_words.py
     visible: true
     learner_created: false
-  - name: maincopy.py
-    visible: true
-    learner_created: true
 status: Solved
 record: 10
 post_submission_on_open: true

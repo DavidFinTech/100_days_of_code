@@ -1,0 +1,16 @@
+#travel_log = {
+   # "France" : ['Paris', 'Berlin', 'Dijon'],
+#}
+#print(travel_log["France"][0])
+
+travel_log = {
+    "France": {
+        "cities_visited": ["Paris", "Lille", "Dijon"],
+        "total_visits": 12
+    },
+    'Germany':{
+        "cities_visited": ["Berlin", "Hamburg", "Stuttgart"],
+        "total_visits": 12
+    }
+}
+print(travel_log['France']['cities_visited'][0])
