@@ -1,43 +1,10 @@
-# 100 Days of Code: Python Learning Journey
+# 100 Days of Code
 
-![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Focus-Project%20Based%20Learning-orange)
-![Progress](https://img.shields.io/badge/Days%20with%20files-16%2F100-brightgreen)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+I'm working through [Angela Yu's Python bootcamp](https://www.udemy.com/course/100-days-of-code/). This repo has my exercises through Day 16, from a band name generator to Hangman, Blackjack, and a coffee machine simulation. Day 16 is where I started working with objects using Turtle and PrettyTable.
 
-A growing collection of Python exercises and projects documenting my progress through **100 Days of Code — The Complete Python Pro Bootcamp** by Dr. Angela Yu.
-
-From a band name generator to interactive games and a coffee machine simulation, this repository tracks the transition from basic Python syntax to larger programs and an introduction to object-oriented programming.
-
-## Problem Statement
-
-Learning programming requires more than understanding individual concepts: it requires combining them into programs that accept input, make decisions, manage data and produce useful results. My goal is to build those skills through daily exercises and small projects, keeping the code available as a record of my learning.
-
-## Repository Scope & Progress
-
-- **Days 1–15:** project files, exercises and course materials.
-- **Day 16:** introductory object-oriented programming examples using Turtle and PrettyTable, stored inside `Day 16-100`.
-- **Days 17–100:** no separate day implementations are currently included.
-
-This is a learning repository. Some files contain starter code, TODOs, empty exercises or bugs used during practice. The presence of a day folder does not mean every exercise is complete.
-
-## Strategic Process
-
-1. **Build the fundamentals:** practice variables, data types, arithmetic, conditionals, lists and loops.
-2. **Apply each concept:** combine the lessons in small projects such as Treasure Island, Hangman and Caesar Cipher.
-3. **Organize program logic:** use functions, return values, dictionaries and modules to support larger projects.
-4. **Practice debugging:** inspect behavior, reproduce problems and work through debugging exercises.
-5. **Explore objects and packages:** begin working with object attributes, methods, Turtle graphics and PrettyTable.
-
-## Learning Results & Tradeoffs
-
-The repository shows practice with interactive command-line programs, reusable functions, game state and structured data. Blackjack, the number guessing game and the coffee machine project bring several of these ideas together in one program.
-
-The emphasis is on learning through iteration. Input validation, error handling and implementation quality vary between exercises; these scripts should be read as coursework and practice rather than production applications.
+Some folders still have starter code, TODOs, or unfinished exercises. The Day 6 link points to an empty starter file, and Day 13 is a set of debugging exercises.
 
 ## Daily Project Index
-
-Each day links to its folder and a main project or representative exercise. Day 6's linked function file is currently empty; its folder contains the associated course tasks. Day 13 contains multiple debugging exercises rather than a single final project.
 
 | Day | Project / Exercise | Concepts Practiced | Main File | All Day Files |
 | --- | --- | --- | --- | --- |
@@ -58,15 +25,7 @@ Each day links to its folder and a main project or representative exercise. Day 
 | 15 | Coffee Machine | Resource management, menus and payment logic | [main.py](https://github.com/DavidFinTech/100_days_of_code/blob/main/Day%2015/Coffee%20Machine%20Project/main.py) | [Browse day](https://github.com/DavidFinTech/100_days_of_code/tree/main/Day%2015) |
 | 16 | Objects, Turtle & PrettyTable | Objects, attributes, methods and external packages | [Day 16.py](https://github.com/DavidFinTech/100_days_of_code/blob/main/Day%2016-100/Where%20are%20the%20rest%20of%20the%20days/Day%2016.py) | [Browse day](https://github.com/DavidFinTech/100_days_of_code/tree/main/Day%2016-100) |
 
-## Tech Stack
-
-- **Language:** Python 3.
-- **Standard library:** modules such as `random`, `math` and `turtle`.
-- **External package:** `prettytable` for the Day 16 table example.
-- **Development environment:** PyCharm-compatible course materials; the Python scripts can also be opened in another editor.
-- **Project format:** standalone scripts, local helper modules and course task metadata.
-
-## Installation & Usage
+## How to run the exercises
 
 ### 1. Clone the repository
 
